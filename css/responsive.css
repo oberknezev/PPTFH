@@ -1,0 +1,45 @@
+@media screen and (max-width: 1200px) {
+    .text-aside h5 {
+        margin: 10px 0;
+    }
+    .text-aside h5:nth-child(3) {
+        margin: 10px 0;
+    }
+}
+@media screen and (max-width: 992px) {
+    .top-section .text-aside h6{
+        text-align: center;
+    }
+    .top-section .text-aside h5 {
+        padding: 5px 0 15px 0;
+    }
+    .middle-section {
+        text-align: center;
+    }
+    .middle-section-whatWeDo h5 {
+        padding: 15px 0 0 0;
+    }
+    .middle-section-whatWeDo ul {
+        list-style-position: inside;
+        display: inline-block;
+    }
+    .middle-section-whatWeDo ul li {
+     }
+    .newsletterSign {
+        padding-top: 30px;
+    }
+    .callNumber {
+        padding-top: 10px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .top-section .text-aside h5 {
+        padding: 15px 0 10px 0;
+    }
+    .social-media {
+        margin-top: 10px;
+    }
+    .newsletterSign {
+        margin-bottom: 20px;
+    }
+}
