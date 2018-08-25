@@ -205,6 +205,9 @@ footer .container{
     font-size: 24px;
     cursor: pointer;
 }
+.donate-button:hover {
+    text-decoration: underline;
+}
 .social-media {
     padding-top: 20px;
     text-align: center;

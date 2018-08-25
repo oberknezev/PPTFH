@@ -36,10 +36,23 @@
     .top-section .text-aside h5 {
         padding: 15px 0 10px 0;
     }
+    .meetings {
+        width: 340px;
+        padding: 20px;
+        background-color: #003449;
+        text-align: center;
+        margin: 30px auto;
+    }
     .social-media {
         margin-top: 10px;
     }
     .newsletterSign {
         margin-bottom: 20px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .meetings {
+        width: 260px;
+        margin: 30px auto;
     }
 }
